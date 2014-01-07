@@ -1,6 +1,8 @@
 A script that displays all sent and recieved facebook messages.
 
-Install
+Install :
+
+
 You will need the FacePY package.
 
 Run extended_token.py first to extend the lifetime of the token.
