@@ -1,4 +1,4 @@
-A script that displays all sent and recieved facebook messages.
+
 
 Install :
 
